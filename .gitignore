@@ -1,0 +1,47 @@
+﻿# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+x64/
+x86/
+[Aa]rchive/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (32bit/64bit)
+*.exe
+*.dll
+
+# Thumbnails
+Thumbs.db
+
+# Windows Installer files
+Desktop.ini
+
+# JetBrains Rider
+.idea/
+
+# Node.js packages (for Node.js in a .NET application)
+node_modules/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Log files
+*.log

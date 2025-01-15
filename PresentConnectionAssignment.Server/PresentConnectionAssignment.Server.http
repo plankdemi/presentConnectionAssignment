@@ -1,0 +1,6 @@
+@PresentConnectionAssignment.Server_HostAddress = http://localhost:5125
+
+GET {{PresentConnectionAssignment.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
